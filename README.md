@@ -1,3 +1,3 @@
 # todo-list-java
 
-A todo list using Java GUI
+A Basic todo list using Java GUI
